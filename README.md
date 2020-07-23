@@ -1,4 +1,4 @@
-# Hermes+ (UBC - Rogers 5G Smart City Hackathon) - 3rd Place
+# Hermes+ (UBC - Rogers 5G Smart City Hackathon) - 3rd Place 🏆
 Check out a demo here: https://www.youtube.com/watch?v=1v7Cid5zjJQ
 
 ## Inspiration
